@@ -4,7 +4,8 @@ Notifire is a web application solution developed by our team as part of the chal
 ## Table of Contents 
 - [Installation]
 - [Usage]  
-##Installation
+
+## Installation
 
 GLDAS Noah Land Surface Model L4 3 hourly 0.25 x 0.25 degree V2.1 (GLDAS_NOAH025_3H)
 https://disc.gsfc.nasa.gov/datasets/M2T1NXSLV_V5.12.4/summary
